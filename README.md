@@ -1,4 +1,6 @@
 
+*****NOTE: My cousin borrowed my computer one month ago for his CS assignment using his github account, but I didn't realize. So this folder might shows two coordinators, one is "edwardyang12"(he), one is "ziyanc080"(me). But all the works are done by myself, without any collaboration with him or other people. I have already explained to the professor, and he suggested me write down here to inform the TA and graders. Thanks!******************************************
+
 # HW1 EE599 - Computing Principles for Electrical Engineers
  
 - Plesae clone the repository, edit [README.md](README.md) to answer the questions, and fill up functions to finish the hw.
